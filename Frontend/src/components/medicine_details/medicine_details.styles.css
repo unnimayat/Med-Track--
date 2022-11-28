@@ -1,0 +1,92 @@
+div.flex-container
+{
+    position:absolute;
+    width: 308px;
+    height: 56px;
+    left: 0px;
+    top: 0px;
+    
+    background: #E96317;
+    text-align: center;
+    font-family:'Georgia';
+    font-size: large;
+    padding-top: 15px;
+}
+.nv{
+    background-color: #2E1E5E; 
+    color: white;
+}
+.a{ 
+    margin-left: 1200px;
+    color: white;
+    font-family:'Georgia';
+}
+div.flex-container2{
+    position:relative;
+    width: 600px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    color: white;
+    
+    font-family:'Georgia';
+    font-size: large;
+    padding-left: 50px;
+    background: #2E1E5E;
+}
+
+.remove{
+    position: absolute;
+    width: 191px;
+    height: 48px;
+    left: 205px;
+    top: 772px; 
+    background: #E96317; 
+    border-radius: 15px;
+    border-color: transparent;
+    
+
+    font-family: 'Georgia';
+    font-style: normal; 
+    color: #FFFFFF;
+ 
+}
+div.flex-container3
+{
+    position:relative; 
+    left: 600px;
+    top: -500px;
+    color: black;
+    font-family:'Georgia';
+    font-size: large;
+    padding-left: 50px;
+    background: white
+}
+.submit
+{ 
+position: absolute;
+width: 191px;
+height: 48px;
+left: 888px;
+top: 772px;
+
+color: #FFFFFF;
+background: #E96317;
+border-radius: 15px;
+border-color: transparent;
+}
+
+.cb
+{
+    border-color:black;
+}
+.grid{
+    display: flex; 
+    flex-direction: row;
+    gap: 100px;
+}
+.pr1{
+    font-family:'Georgia';
+}
+
+

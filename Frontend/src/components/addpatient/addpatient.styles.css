@@ -1,0 +1,121 @@
+div.flex-containerr
+{
+    position:absolute;
+    width: 308px;
+    height: 56px;
+    left: 0px;
+    top: 0px;
+    
+    background: #E96317;
+    text-align: center;
+    font-family:'Georgia';
+    font-size: large;
+    padding-top: 15px;
+}
+.nv2{
+    background-color: #2E1E5E;
+    font-family:'Georgia';
+    color: white;
+}
+.aa{
+    
+    /* background-color: bisque; */
+    margin-left: 1200px;
+    color: white;
+    font-family:'Georgia';
+}
+div.flex-container22{
+    position:relative;
+    width: 600px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    color: black;
+    
+    font-family:'Georgia';
+    font-size: large;
+    padding-left: 50px;
+    background: white;
+}
+.parallell{ 
+    /* display: grid;  
+    grid-template-columns: auto auto;
+    grid-template-rows: auto ;  */
+    display:grid;
+
+}
+div.flex-container33
+{
+
+    position:relative;
+    /* width: 600px;
+    height: 900px; */
+    left: 605px;
+    top: -700px;
+    color: black;
+    font-family:'Georgia';
+    font-size: large;
+    padding-left: 50px;
+    background: white
+}
+.submitt{
+    /* Rectangle 41 */
+
+position: relative;
+width: 191px;
+height: 48px;
+left: 550px;
+top: 150px;
+color: white;
+background: #2E1E5E;
+border-radius: 15px;
+border-color: transparent;
+}
+.button1{     
+    display: flex; 
+    width: 227px;
+    height: 93px;
+    background: #D9D9D9;
+    border-radius: 10px; 
+    border-color: transparent;
+}
+.button2{   
+    display: flex;  
+    width: 227px;
+    height: 93px;
+    background: #fc7222;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.column{   
+    background-color: white; 
+    margin-left: 100px; 
+    display: grid;  
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto auto auto auto; 
+    row-gap: 30px;
+    column-gap: 30px;
+}  
+h4.hr{
+    margin-left: 100px; 
+}
+.w{ 
+     
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: white;
+    margin-left: 850px;
+}
+.gridd{
+    display: flex; 
+    flex-direction: row;
+    gap: 100px;
+}
+.all{ 
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
