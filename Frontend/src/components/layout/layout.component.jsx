@@ -141,7 +141,7 @@ const Layout=()=>
                     <h1 className='occupied'>Occupied   :<label htmlFor=""  className='occupied'>{occupied}</label> </h1>
                     <br></br>
                     <h1 className='unoccupied'>Unoccupied   :<label htmlFor=""  className='unoccupied'>{unoccupied}</label></h1>
-                    <a href="/home"><button className='logout'>LOGOUT</button></a>
+                    <a href="/"><button className='logout'>LOGOUT</button></a>
                 </div>
              
                 <div className='column'>   

@@ -51,7 +51,7 @@ const Medicine=()=>
             <Navbar className="nv">
           <Nav className="me-auto">
           <div className='flex-container'>Nurse_name</div>
-          <Nav.Link className='a'href="#home">Home</Nav.Link>
+          <Nav.Link className='a'href="/">Home</Nav.Link>
             {/* <Nav.Link href="#home">Home</Nav.Link> */}
           </Nav>
       </Navbar>

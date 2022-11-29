@@ -11,7 +11,7 @@ const App = () => {
     <BrowserRouter>
     <fetchapi/>
     <Routes>
-      <Route path="/home" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route path="/login" element={<Login/>} />     
       <Route path="/layout" element={<Layout/>} />
       <Route path="/addpatient" element={<Addpatient/>} />
